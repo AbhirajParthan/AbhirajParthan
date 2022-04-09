@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi Folks, 👋
 
-<!--
-**abhirajparthan/abhirajparthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##### Welcome to my GitHub,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.laobi.icu/badge?page_id=abhirajparthan) [![Github](https://img.shields.io/github/followers/abhirajparthan?label=Follow&style=social)](https://github.com/abhirajparthan)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+<div align="center">
+  <img src="https://github.com/abhirajparthan/abhiraj-parthan-/blob/b6db045dee2f625adde8f66cc30986bdbde5ad8e/result.gif" alt="header"/>
+</div>
+
+
+
+
+
+
+
+
