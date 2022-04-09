@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/abhirajparthan/abhiraj-parthan-/blob/b6db045dee2f625adde8f66cc30986bdbde5ad8e/result.gif" alt="header"/>
+  <img src="https://github.com/abhirajparthan/abhirajparthan/blob/08415eed715a3c0366c54419fc61241d8846b998/result.gif" alt="header"/>
 </div>
 
 
